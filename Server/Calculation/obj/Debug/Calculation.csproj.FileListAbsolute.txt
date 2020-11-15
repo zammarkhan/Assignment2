@@ -1,0 +1,182 @@
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\Calculation.dll.config
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\Calculation.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\Calculation.pdb
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\csc.exe
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\csc.exe.config
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\csc.rsp
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\csi.exe
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\csi.exe.config
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\csi.rsp
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.AppContext.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Console.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Net.Http.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\vbc.exe
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\vbc.exe.config
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\vbc.rsp
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\Newtonsoft.Json.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\Newtonsoft.Json.xml
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\obj\Debug\Calculation.csproj.CopyComplete
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\obj\Debug\Calculation.dll
+C:\Users\Haseeb Khatri\source\repos\Calculation\Calculation\obj\Debug\Calculation.pdb
+D:\lab5\Calculation\Calculation\bin\Calculation.dll.config
+D:\lab5\Calculation\Calculation\bin\Calculation.dll
+D:\lab5\Calculation\Calculation\bin\Calculation.pdb
+D:\lab5\Calculation\Calculation\bin\roslyn\csc.exe
+D:\lab5\Calculation\Calculation\bin\roslyn\csc.exe.config
+D:\lab5\Calculation\Calculation\bin\roslyn\csc.rsp
+D:\lab5\Calculation\Calculation\bin\roslyn\csi.exe
+D:\lab5\Calculation\Calculation\bin\roslyn\csi.exe.config
+D:\lab5\Calculation\Calculation\bin\roslyn\csi.rsp
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lab5\Calculation\Calculation\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.AppContext.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Collections.Immutable.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Console.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Globalization.Calendars.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.IO.Compression.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.IO.FileSystem.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Net.Http.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Net.Sockets.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Reflection.Metadata.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.ValueTuple.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Xml.XmlDocument.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Xml.XPath.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\lab5\Calculation\Calculation\bin\roslyn\vbc.exe
+D:\lab5\Calculation\Calculation\bin\roslyn\vbc.exe.config
+D:\lab5\Calculation\Calculation\bin\roslyn\vbc.rsp
+D:\lab5\Calculation\Calculation\bin\roslyn\VBCSCompiler.exe
+D:\lab5\Calculation\Calculation\bin\roslyn\VBCSCompiler.exe.config
+D:\lab5\Calculation\Calculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lab5\Calculation\Calculation\bin\Newtonsoft.Json.dll
+D:\lab5\Calculation\Calculation\bin\Newtonsoft.Json.xml
+D:\lab5\Calculation\Calculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\lab5\Calculation\Calculation\obj\Debug\Calculation.csprojAssemblyReference.cache
+D:\lab5\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+D:\lab5\Calculation\Calculation\obj\Debug\Calculation.csproj.CopyComplete
+D:\lab5\Calculation\Calculation\obj\Debug\Calculation.dll
+D:\lab5\Calculation\Calculation\obj\Debug\Calculation.pdb
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\Calculation.dll.config
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\Calculation.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\Calculation.pdb
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\csc.exe
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\csc.exe.config
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\csc.rsp
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\csi.exe
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\csi.exe.config
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\csi.rsp
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.AppContext.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Collections.Immutable.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Console.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Globalization.Calendars.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.IO.Compression.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.IO.FileSystem.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Net.Http.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Net.Sockets.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Reflection.Metadata.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.ValueTuple.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Xml.XPath.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\vbc.exe
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\vbc.exe.config
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\vbc.rsp
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\VBCSCompiler.exe
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\roslyn\VBCSCompiler.exe.config
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\Newtonsoft.Json.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\Newtonsoft.Json.xml
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\obj\Debug\Calculation.csprojAssemblyReference.cache
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\obj\Debug\Calculation.csproj.CopyComplete
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\obj\Debug\Calculation.dll
+D:\Haseeb Khatri\Lab5\UBIT.CODE\Calculation\Calculation\obj\Debug\Calculation.pdb
